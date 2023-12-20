@@ -1,0 +1,23 @@
+* {
+
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  border: none;
+  outline: none;
+  font-family: sans-serif;
+}
+
+.container {
+  padding: 12px;
+}
+
+.btns-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+body.hide-overflow--removal-alert {
+  overflow-y: hidden;
+}

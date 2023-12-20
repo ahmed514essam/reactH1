@@ -1,0 +1,33 @@
+.results {
+    border: 2px solid rgb(158, 158, 158);
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+.results h2 {
+
+}
+.results .snip { 
+width: 100%;
+text-align: center;
+
+}
+.btn {
+    background-color: rgb(43, 108, 110);
+    padding: 10px 15px;
+    border-radius: 10p;
+    -webkit-border-radius: 10p;
+    -moz-border-radius: 10p;
+    -ms-border-radius: 10p;
+    -o-border-radius: 10p;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 10px;
+}
+.aa {
+    text-decoration: none;
+    color: rgb(43, 108, 110);
+font-weight: bold;
+margin-left: 15px;
+
+}

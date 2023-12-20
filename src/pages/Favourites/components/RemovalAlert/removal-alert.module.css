@@ -1,0 +1,39 @@
+.overlay {
+    background-color: #10101031;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    z-index: 10;
+}
+
+.alert {
+    padding: 12px;
+    background-color: #34707a;
+    width: 100%;
+    max-width: 480px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    text-align: center;
+    color: white;
+}
+.ptnr {
+    padding: 10px 15px;
+    font-weight: 500;
+    background-color: rgb(41, 38, 92);
+    color: white;
+}
+.ptnc {
+    padding: 10px 15px;
+    font-weight: 500;
+    background-color: red;
+    color: white;
+}
